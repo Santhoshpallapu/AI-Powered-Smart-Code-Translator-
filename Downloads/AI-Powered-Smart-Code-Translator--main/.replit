@@ -1,0 +1,6 @@
+[run]
+command = "npm run build && npm start"
+
+[env]
+NODE_ENV = "production"
+PORT = "5000"
